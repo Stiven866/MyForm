@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Form</string>
+    <string name="fill_form">Llenar Formulario</string>
+    <string name="name">Nombre</string>
+    <string name="user">Usuario</string>
+    <string name="pswd">Contraseña</string>
+    <string name="pswdconf">Confirmar Contraseña</string>
+    <string name="email">Correo</string>
+    <string name="Male">Masculino</string>
+    <string name="Famale">Femenino</string>
+    <string name="pick_date">Ingresar fecha</string>
+    <string name="swim">Nadar</string>
+    <string name="dancing">Bailar</string>
+    <string name="cook">Cocinar</string>
+    <string name="read">Leer</string>
+    <string name="save">Guardar</string>
+
+    <string-array name="city_array">
+        <item>Medellín</item>
+        <item>Bogota</item>
+        <item>Bucaramanga</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Pereira</item>
+        <item>Cúcuta</item>
+    </string-array>
+
+</resources>

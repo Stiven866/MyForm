@@ -228,6 +228,7 @@ public class MainForm extends AppCompatActivity {
     public String getNameUser() {
         return nameUser;
     }
+    
 
     public void setNameUser(String nameUser) {
         this.nameUser = nameUser;
